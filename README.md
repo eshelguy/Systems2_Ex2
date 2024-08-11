@@ -1,6 +1,3 @@
-Certainly! Here's a README file specifically for the operators implemented in your `Graph` class:
-
----
 
 # Graph Class Operator Documentation
 
@@ -103,7 +100,3 @@ This document provides an overview of the various operators implemented in the `
 ### `friend std::ostream& operator<<(std::ostream& output, const Graph& g)`
 - **Description:** Outputs the adjacency matrix of the graph to an output stream.
 - **Usage:** `std::cout << graph;`
-
----
-
-This README provides a summary of how to use each operator within the `Graph` class. Each operator performs specific actions that are critical in graph manipulations and comparisons.
